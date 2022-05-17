@@ -1,4 +1,4 @@
-Hi 👋 My name is Muhammed Taha Kösem
+<h1 align="center"> Hello 👋 My name is Muhammed Taha Kösem
 ==============================
 
 Software Engineering Student
@@ -7,7 +7,7 @@ Software Engineering Student
 * 🌍  I live in İstanbul
 * ✉️  You can contact me at [taha.36kosem@gmail.com](mailto:taha.36kosem@gmail.com)
 * 🧠  I'm learning Python, C# and Arduino
-* ⚡  Coding keeps me alive everytime :)
+* ⚡  Coding always makes me happy :)
 
 <a href="https://www.github.com/MuhammedTaha1136" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MuhammedTaha1136?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -22,6 +22,13 @@ src="https://img.shields.io/github/followers/MuhammedTaha1136?logo=github&style=
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+<h2 align="left">👩‍💻 
+Editors I Use</h2>
+
+<p align="center">
+  
+<code><img height="40" width="40" src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"></code>
+ <code><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></code>
 
 ### Socials
 
