@@ -29,9 +29,6 @@ Editors I Use</h2>
 <code><img height="40" width="40" src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"></code>
  <code><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></code>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/MuhammedTaha1136" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></p>
 
 ### Badges
 
