@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋 My name is Muhammed Taha Kösem
+<h1 align="center"> Hello 👋 My name is Muhammed Taha KÖSEM
 
 Software Engineering Student
 -----------------------------------------
